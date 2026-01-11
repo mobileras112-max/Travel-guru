@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Travel Guru AI",
+  "description": "A real-time travel companion that uses your location to provide instant cultural insights, language basics, local food recommendations, and essential travel tips.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
